@@ -1,0 +1,2 @@
+input_image=imread('D:\Dropbox\DIP_Program\water.jpg');
+imwrite(input_image,'water.bmp','bmp');
