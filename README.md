@@ -4,10 +4,10 @@
 
 ## HW1
     
-###Open/Read/Write BMP file
-###Histogram Equlization
-###Mirror
-###GrayScale
+### Open/Read/Write BMP file
+### Histogram Equlization
+### Mirror
+### GrayScale
 
 ## HW2
 
@@ -17,5 +17,3 @@
     
     
 ## FinalProject   
-    123
-    456
