@@ -11,9 +11,15 @@
 
 ## HW2
 
+### DFT
+### HPF
+### DCT
 
 
 ## HW3
-    
+
+### Connected component labeling    
     
 ## FinalProject   
+
+### Image Enhancement
