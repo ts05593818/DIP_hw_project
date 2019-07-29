@@ -38,7 +38,9 @@
 ### Connected component labeling    
     Segmentation常見之演算法，利用增長的方式進行區塊化分
     使用的model常見有4/8之分
-![4/8](https://i.imgur.com/6ECRNHf.png)
+<center class="half">
+    <img src="https://i.imgur.com/6ECRNHf.png" width="200"/>
+</center>
     
 ## FinalProject   
 
@@ -46,4 +48,8 @@
     首先將BMP圖檔之RGB RAWDATA轉換到HSV域
     再利用Global/Local對影像處理 強化對比度
     最後反轉回RGB得到增強後之影像
-    
+<center class="half">
+    <img src="https://i.imgur.com/K2L8hp6.png" width="200"/><img src="https://i.imgur.com/FVMZFTi.png" width="200"/>
+</center>    
+
+
